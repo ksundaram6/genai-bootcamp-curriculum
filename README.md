@@ -16,7 +16,7 @@ This section provides practical experience with different machine learning tasks
 ### 1.1 RAG Exercise
 - **Data and Scripts**: Resources for the Retrieval-Augmented Generation (RAG) exercise.
 - **Notebooks**: Detailed process walkthrough in Jupyter notebooks.
-- 
+  
 ### 1.2 Langchain Introduction
 - **Configurations and Data**: Configuration files and sample datasets.
 - **Images and Notebooks**: Tutorial resources including images and notebooks on Langchain basics.
