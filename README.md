@@ -13,19 +13,15 @@ This repository is designed as a comprehensive suite for a machine learning boot
 ## Daily Exercises
 This section provides practical experience with different machine learning tasks and tools through various exercises.
 
-### 1.1 Finetuning Exercise
-- **Data**: Datasets for model fine-tuning.
-- **Notebooks**: Jupyter notebooks with detailed instructions for data preparation and model tuning.
-
+### 1.1 RAG Exercise
+- **Data and Scripts**: Resources for the Retrieval-Augmented Generation (RAG) exercise.
+- **Notebooks**: Detailed process walkthrough in Jupyter notebooks.
+- 
 ### 1.2 Langchain Introduction
 - **Configurations and Data**: Configuration files and sample datasets.
 - **Images and Notebooks**: Tutorial resources including images and notebooks on Langchain basics.
 
-### 1.3 RAG Exercise
-- **Data and Scripts**: Resources for the Retrieval-Augmented Generation (RAG) exercise.
-- **Notebooks**: Detailed process walkthrough in Jupyter notebooks.
-
-### 1.4 Synthetic Data Exercise
+### 1.3 Synthetic Data Exercise
 - **Data and Scripts**: Tools and datasets for synthetic data manipulation.
 - **Notebooks**: Demonstrations on synthetic data handling.
 
@@ -46,9 +42,6 @@ Designed to integrate skills from the course into substantial, real-world data s
 
 ### 2.4 Inference Methods
 - **Notebooks and Scripts**: Resources on various inference methods, including practical applications.
-
-### 2.5 Solution Directory
-- **Purpose**: Completed examples and solutions as references for learners.
 
 ## Supporting Files and Directories
 - **`data/`**: Datasets for multiple projects.
